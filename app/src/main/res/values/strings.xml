@@ -2,5 +2,10 @@
     <string name="app_name">MyApplication</string>
     <string name="main_button_toast">Exibir Toast</string>
     <string name="main_button_tela2">Tela 2</string>
+    <string name="main_button_parcel">Parcelable</string>
+
+    <string name="tela2_texto1">Nome: %1$s / Código: %2$x</string>
+    <string name="tela2_texto2">Nome: %1$s / Idade: %2$s</string>
+
 
 </resources>
